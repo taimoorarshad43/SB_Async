@@ -15,6 +15,6 @@ function getFacts(url, name){
         })
 }
 
-// getFacts(test);
-// getFacts(test2);
-// getFacts(baseURL);
+getFacts(mewtwo);
+getFacts(scyther);
+getFacts(tentacruel);
